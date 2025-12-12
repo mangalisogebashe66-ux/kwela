@@ -1,0 +1,21 @@
+{
+  "name": "khwela-user-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^1.35.7",
+    "face-api.js": "^0.22.2",
+    "leaflet": "^1.9.4",
+    "vue": "^2.6.14",
+    "vue-router": "^3.5.4"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-optional-chaining": "^7.21.0",
+    "@vue/cli-service": "4.5.19",
+    "vue-template-compiler": "^2.6.14"
+  }
+}
